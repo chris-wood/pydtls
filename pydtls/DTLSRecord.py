@@ -1,0 +1,2 @@
+class DTLSRecord(object):
+    pass
